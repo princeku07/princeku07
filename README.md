@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A software developer from India</h3>
 
-- 🔭 I’m currently working on **Xperience**
+- 🔭 I’m currently working on [Xperience](xperiencelabs.co.in)
 
 - 🌱 I’m currently learning **Filament**
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **princekumarsingh@7007gmail.com**
 
 - ⚡ Fun fact **I am not an engineer.**
-<img align="right" width="400" src="https://github.com/princeku07/princeku07/blob/main/Ar.gif">
+<img align="right" width="400" style="border:10px solid red" src="https://github.com/princeku07/princeku07/blob/main/Ar.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>

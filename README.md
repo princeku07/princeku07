@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A software developer from India</h3>
 
-- 🔭 I’m currently working on [Xperience]([xperiencelabs.co.in](https://www.xperiencelabs.co.in/))
+- 🔭 I’m currently working on [Xperience](www.xperiencelabs.co.in)
 
 - 🌱 I’m currently learning **Filament**
 
